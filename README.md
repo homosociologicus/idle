@@ -3,7 +3,7 @@
 Provides monokai color scheme for the recent versions of IDLE.
 
 I started with Python 3.7.6 and couldn't find the perfect monokai .cfg file. This modified highlight scheme is definitely compatible
-with IDLE Python 3.7.6 - 3.8.1 64-bit.
+with all versions of IDLE Python between 3.7.6 and 3.8.1 (64-bit).
 
 How to enable monokai color scheme:
 
