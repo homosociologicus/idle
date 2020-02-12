@@ -9,6 +9,7 @@ How to enable monokai color scheme:
 
 1. Make a copy of your own .idlerc/config-highlight.cfg just to be on the safe side.
 2. Replace your .idlerc/config-highlight.cfg file with the one provided here.
-3. If it does not apply automatically with the next launch of IDLE, try to find it in IDLE settings and enable it.
-4. Finally, you can always play with the source code of the scheme and .cfg files (be careful, make copies before modifying).
-5. Enjoy!
+3. Replace 'name' variable with 'monokai' in the [Theme] block in your .idlerc/config-main.cfg file.
+4. If it does not apply automatically with the next launch of IDLE, try to find it in IDLE settings and enable it.
+5. Finally, you can always play with the source code of the scheme and .cfg files (be careful, make copies before modifying).
+6. Enjoy!
